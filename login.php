@@ -102,7 +102,7 @@
                             <input type='submit' name='Submit' class="form-control button" value="LOGIN"> 
                         </label>
                     </div>
-                    <a href="resetPass.php"><span class="check_1">Forgot Password?</span><br></a>
+                    <a href="resetPass.php"><span class="check_1">Hello World!</span><br></a>
 					<a href="signUp.php"><span class="check_2">Are you a new user ?</span></a>
 					</form>
              
