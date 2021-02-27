@@ -15,6 +15,11 @@ Each recipe has a description and a picture.
  If the user forgets his password, a link is provided to reset his password.
  
  I used HTML and CSS, Bootstrap, PHP, MySQL DB, Singleton pattern( to restrict the number of instances that can be created to only one), Salted passwords
+  List of functionalities:
+ registration
+ login
+ search by category, mealtype, word_in_recipe_name
+ ratings and reviews
  
  What I would like to add to this application: 
  1. advanced serach by specifying ingridient
@@ -24,9 +29,4 @@ Each recipe has a description and a picture.
  5. add the nutrition facts
  
 
- List of functionalities:
- registration
- login
- search by category, mealtype, word_in_recipe_name
- ratings and reviews
- 
+
